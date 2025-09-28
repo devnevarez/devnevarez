@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devnevarez
 - 👀 I’m interested in building a career in IT!
-- 🌱 I’m currently learning AWS re/Start Cloud Computing with Per Scholas.
-- 💞️ I’m looking to collaborate on beginner projects using Python.
+- 🌱 I completed AWS re/Start Cloud Computing with Per Scholas.
+- 💞️ I’m looking to collaborate on beginner projects using Python, I have been employed at Apple for a couple years now!
 - 📫 How to reach me; this Github profile please reach out!
 
 <!---
